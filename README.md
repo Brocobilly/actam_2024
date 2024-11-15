@@ -13,3 +13,7 @@ Use this official documentation for reference https://developer.mozilla.org/en-U
 
 Please share [here](https://forms.gle/EKzyaYY2g6qAkb116) the song you'd like to emulate in a javascript app
 
+[web audio api exercises](https://github.com/fbrusch/actam_2024/tree/exercises) ->[link alla registrazione](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/a5b683178d7c4391b8cf474a452a5d4e/playback)
+
+[intro tone.js](https://raw.githack.com/fbrusch/actam_2024/gh-pages/webaudioprogramming.html)
+
