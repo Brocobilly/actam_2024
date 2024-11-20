@@ -17,3 +17,6 @@ Please share [here](https://forms.gle/EKzyaYY2g6qAkb116) the song you'd like to 
 
 [intro tone.js](https://raw.githack.com/fbrusch/actam_2024/gh-pages/webaudioprogramming.html)
 
+[tone.js Playground!](https://fbrusch.github.io/actam_2024/playground/playground.html)
+
+
